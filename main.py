@@ -1,6 +1,5 @@
-name = input()
-age = input()
+width = int(input())
+height = int(input())
 
-
-
-print(f"Hi, {name}! You are {age} years old.")
+print(width * height)
+print(2 * (width + height))
